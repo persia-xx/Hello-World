@@ -1,3 +1,3 @@
 #!/usr/bin/perl
 
-print 'Ce vrem noi'
+print 'Ce vrem noi!'
